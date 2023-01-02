@@ -1,2 +1,2 @@
 # Simple Projects
-In this ripository, I will test git and github commands.
+This ripository, is a practice workspace to learn git and github commands.
